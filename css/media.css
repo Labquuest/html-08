@@ -1,0 +1,239 @@
+@media (max-width: 1350px) {
+  .menu__list {
+    padding: 0 0 0 5px;
+  }
+  .main {
+    font-size: 19px;
+  }
+}
+
+@media (max-width: 1310px) {
+  .logo__img {
+    max-width: 180px;
+  }
+  .menu__list {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 1203px) {
+  .logo__img {
+    display: inline-block;
+    max-width: 280px;
+  }
+  .menu__list {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 1170px) {
+  .header__search-button {
+    padding-left: 10px;
+  }
+  .logo__img {
+    max-width: 0;
+    max-width: 200px;
+  }
+}
+
+@media (max-width: 1090px) {
+  .menu {
+    display: none;
+  }
+}
+
+@media (max-width: 630px) {
+  .header__search-button {
+    padding-left: 10px;
+  }
+  .main {
+    font-size: 19px;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .search-button__icon {
+    width: 20px;
+  }
+  .menu-button__icon {
+    width: 20px;
+  }
+  .header__title-text {
+    font-size: 11px;
+  }
+  .logo__img {
+    max-width: 100px;
+  }
+}
+
+@media (max-width: 810px) {
+  h1 {
+    font-size: 20px;
+  }
+  .information {
+    padding: 0 70px;
+  }
+  .container-2 {
+    max-width: 1760px;
+    padding: 0 70px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 750px) {
+  .information {
+    padding: 0 50px;
+  }
+  .container-2 {
+    max-width: 1760px;
+    padding: 0 50px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 550px) {
+  .information {
+    padding: 0 20px;
+  }
+  .container-2 {
+    max-width: 1760px;
+    padding: 0 20px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 1040px) {
+  .menu__burger {
+    padding: 0;
+    max-width: 33%;
+    height: 100%;
+    position: absolute;
+    background-color: white;
+    right: 0;
+    top: 0;
+  }
+  .menu__burger .close {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: end;
+  }
+  .menu__burger .close .close__menu {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    border: none;
+    background: transparent;
+    font-size: 18px;
+    text-decoration: underline;
+    padding: 20px;
+  }
+  .menu__burger .close .close__menu img {
+    margin-left: 10px;
+    width: 25px;
+    height: 25px;
+  }
+  .menu__burger .menu__lists {
+    font-size: 26px;
+  }
+  .menu__burger .menu__lists .menu__list-item {
+    padding: 0 10px;
+    color: red;
+  }
+}
+
+@media screen and (max-width: 740px) {
+  .menu__burger {
+    padding: 0;
+    max-width: 33%;
+    height: 100%;
+    position: absolute;
+    background-color: white;
+    right: 0;
+    top: 0;
+  }
+  .menu__burger .close {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: end;
+  }
+  .menu__burger .close .close__menu {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    border: none;
+    background: transparent;
+    font-size: 18px;
+    text-decoration: underline;
+    padding: 20px;
+  }
+  .menu__burger .close .close__menu img {
+    margin-left: 10px;
+    width: 25px;
+    height: 25px;
+  }
+  .menu__burger .menu__lists {
+    font-size: 18px;
+  }
+  .menu__burger .menu__lists .menu__list-item {
+    padding: 0 10px;
+    color: red;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .menu__burger {
+    padding: 0;
+    max-width: 33%;
+    height: 100%;
+    position: absolute;
+    background-color: white;
+    right: 0;
+    top: 0;
+  }
+  .menu__burger .close {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: end;
+  }
+  .menu__burger .close .close__menu {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    border: none;
+    background: transparent;
+    font-size: 14px;
+    text-decoration: underline;
+    padding: 20px;
+  }
+  .menu__burger .close .close__menu img {
+    margin-left: 10px;
+    width: 25px;
+    height: 25px;
+  }
+  .menu__burger .menu__lists {
+    font-size: 18px;
+  }
+  .menu__burger .menu__lists .menu__list-item {
+    padding: 0 10px;
+    color: red;
+  }
+}
+/*# sourceMappingURL=media.css.map */
